@@ -12,12 +12,11 @@ A dead simple webpack babel and jest build configuration to get and up and runni
 - [ESLint](https://eslint.org/docs/user-guide/getting-started)
 - [Jest](https://facebook.github.io/jest/docs/en/getting-started.html)
 
-## Commands
+## Installation
 
-1. `git clone https://github.com/jluccisano/webpack-es6-boilerplate.git`
+1. `git clone git@github.com:autom8-apps/webpack-es6-boilerplate.git`
 2. Run `npm install`
 3. Start the dev server using `npm start`
-3. Open [http://localhost:9000](http://localhost:9000)
 
 
 ## Commands
