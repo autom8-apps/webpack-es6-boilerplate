@@ -1,7 +1,6 @@
 {
   "main": "./dist/main.js",
   "scripts": {
-    "compile": "tsc",
     "build": "webpack --progress --colors",
     "start": "webpack-dev-server --progress --colors",
     "test": "jest",

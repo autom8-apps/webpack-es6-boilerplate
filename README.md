@@ -3,7 +3,8 @@
 A dead simple webpack babel and jest build configuration to get and up and running with a new package, project, etc. in minutes!
 
 ## Prerequisites
-`npm init` - to set up all of your package info of course! Make sure to rename the repository to your own
+1. `npm init` - to set up all of your package info of course! Make sure to rename the repository to your own.
+2. in webpack.config.js make sure to rename the library name from `YOUR_LIBRARY_NAME` to whatever you would like.
 
 ## Features
 - [Webpack](https://webpack.js.org/guides)
@@ -16,7 +17,7 @@ A dead simple webpack babel and jest build configuration to get and up and runni
 
 1. `git clone git@github.com:autom8-apps/webpack-es6-boilerplate.git`
 2. Run `npm install`
-3. Start the dev server using `npm start`
+3. Start the dev server using `npm run start`
 
 
 ## Commands
