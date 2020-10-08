@@ -1,4 +1,4 @@
-import example from "./index";
+import example from "../index";
 
 describe('example', () => {
   it('should return example', () => {
