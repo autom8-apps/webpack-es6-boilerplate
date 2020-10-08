@@ -20,10 +20,10 @@ A dead simple webpack babel and jest build configuration to get and up and runni
 
 
 ## Commands
-  `build` - bundle code to dist,
-  `start` - start the web dev server,
-  `test` - run jest tests,
-  `debug` - for debugger purposes, utilized in .vscode debugger launch config
+- `build`: bundle code to dist,
+- `start`: start the web dev server,
+- `test`: run jest tests,
+- `debug`: for debugger purposes, utilized in .vscode debugger launch config
 
 ## Licence
 MIT.
