@@ -6,7 +6,7 @@ A dead simple webpack babel and jest build configuration to get and up and runni
 `npm init` - to set up all of your package info of course! Make sure to rename the repository to your own
 
 ## Features
-- [Webpack](https://webpack.js.org/guides
+- [Webpack](https://webpack.js.org/guides)
 - [ECMAScript 6](http://es6-features.org)
 - [Babel](https://babeljs.io/docs/setup/#installation)
 - [ESLint](https://eslint.org/docs/user-guide/getting-started)
